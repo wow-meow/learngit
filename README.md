@@ -7,3 +7,5 @@ Git is free software distributed under the GPL.
 Git tracks changes of files.
 
 Creating a branch is quick and simple.
+
+Switched to a new branch 'dev'.
