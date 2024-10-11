@@ -1,4 +1,6 @@
 # hello.py
-# set exit=1
 # some comments
 # author=
+
+# set exit=1
+# set is_logic=true
