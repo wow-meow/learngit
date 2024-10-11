@@ -3,4 +3,4 @@
 # author=
 
 # set exit=1
-# set is_logic=true
+# set permission=644
